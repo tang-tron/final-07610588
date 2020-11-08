@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">final</string>
+    <string name="over_limit_0">OVER LIMIT: 0</string>
+    <string name="total_0">TOTAL: 0</string>
+    <string name="speed_records">SPEED RECORDS</string>
+    <string name="add_record">ADD RECORD</string>
+    <string name="enter_duration_meters">Enter duration (meters)</string>
+    <string name="enter_duration_seconds">Enter duration (seconds)</string>
+</resources>
